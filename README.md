@@ -1,6 +1,6 @@
 # BalitaNLP Dataset
 
-A Filipino language dataset for image-conditional language generation and class-conditional image generation. Composed of 351,755 Filipino news articles gathered from Filipino news outlets.
+A Filipino multi-modal language dataset for image-conditional language generation and class-conditional image generation. Consists of 351,755 Filipino news articles gathered from Filipino news outlets.
 
 # Download
 * [dataset](https://storage.googleapis.com/public-kenricklancebunag/BalitaNLP/2022/BalitaNLP-Dataset.zip)
