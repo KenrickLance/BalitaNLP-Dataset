@@ -30,15 +30,15 @@ Each entry in the dataset has 8 fields:
 The articles are formatted in a json format like below
 ```
 {
-    'body': ['paragraph1', 'paragraph2', ...],
-    'title': 'Philippine Swimming League tutuklas ng bagong talento',
-    'website': 'Abante',
-    'category': 'Sports,
-    'date': 'Jul 8, 2019',
-    'author': 'Jose Reyes',
-    'url': 'https://www.abante.com.ph/2019/04/04/philippine-swimming-league-tutuklas-ng-bagong-talento/',
-    'img_url': 'https://www.abante.com.ph/wp-content/uploads/2019/04/abante-swimming.jpg',
-    'img_path': 'a14690aff7cba59b358e8c97b684c58f29537e0716caa21bfd511da8996b078c.jpg',
+    "body": ["paragraph1", "paragraph2", ...],
+    "title": "Philippine Swimming League tutuklas ng bagong talento",
+    "website": "Abante",
+    "category": "Sports",
+    "date": "Jul 8, 2019",
+    "author": "Jose Reyes",
+    "url": "https://www.abante.com.ph/2019/04/04/philippine-swimming-league-tutuklas-ng-bagong-talento/",
+    "img_url": "https://www.abante.com.ph/wp-content/uploads/2019/04/abante-swimming.jpg",
+    "img_path": "a14690aff7cba59b358e8c97b684c58f29537e0716caa21bfd511da8996b078c.jpg"
 }
 ```
 
