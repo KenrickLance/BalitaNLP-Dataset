@@ -7,7 +7,7 @@ A Filipino multi-modal language dataset for image-conditional language generatio
 * images
     * [part1](https://storage.googleapis.com/public-kenricklancebunag/BalitaNLP/2022/BalitaNLP-images_1.zip)
     * [part2](https://storage.googleapis.com/public-kenricklancebunag/BalitaNLP/2022/BalitaNLP-images_2.zip)
-    * [part3](https://storage.googleapis.com/public-kenricklancebunag/BalitaNLP/2022/BalitaNLP-images_2.zip)
+    * [part3](https://storage.googleapis.com/public-kenricklancebunag/BalitaNLP/2022/BalitaNLP-images_3.zip)
     * [part4](https://storage.googleapis.com/public-kenricklancebunag/BalitaNLP/2022/BalitaNLP-images_4.zip)
 
 # Dataset Info
