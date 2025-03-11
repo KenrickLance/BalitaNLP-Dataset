@@ -2,7 +2,8 @@
 
 A Filipino multi-modal language dataset for text+visual tasks. Consists of 351,755 Filipino news articles (w/ associated images) gathered from Filipino news outlets. Originally published in [(Buñag & Esquivel, 2023)](https://storage.googleapis.com/public-kenricklancebunag/Transformer-based%20Conditional%20Language%20Models%20-%20IEOM%20Submission.pdf).
 
-# Download
+## Download
+Direct download:
 * [dataset](https://storage.googleapis.com/public-kenricklancebunag/BalitaNLP/2022/BalitaNLP-Dataset.zip)
 * images
     * [part1](https://storage.googleapis.com/public-kenricklancebunag/BalitaNLP/2022/BalitaNLP-images_1.zip)
@@ -12,7 +13,7 @@ A Filipino multi-modal language dataset for text+visual tasks. Consists of 351,7
 
 Also available on [huggingface/datasets](https://huggingface.co/datasets/LanceBunag/BalitaNLP)
 
-# Dataset Info
+## Dataset Info
 
 Total # of articles: **351,755**
 
