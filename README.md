@@ -10,6 +10,8 @@ A Filipino multi-modal language dataset for text+visual tasks. Consists of 351,7
     * [part3](https://storage.googleapis.com/public-kenricklancebunag/BalitaNLP/2022/BalitaNLP-images_3.zip)
     * [part4](https://storage.googleapis.com/public-kenricklancebunag/BalitaNLP/2022/BalitaNLP-images_4.zip)
 
+Also available on [huggingface/datasets](https://huggingface.co/datasets/LanceBunag/BalitaNLP)
+
 # Dataset Info
 
 Total # of articles: **351,755**
